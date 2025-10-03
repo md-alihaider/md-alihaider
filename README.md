@@ -1,5 +1,5 @@
-<h1 align="center">💫 About Me:</h1>
-<h3 align="center">Hi! Welcome to my Github landing page!<br>I'm Ali Haider a dedicated Web Developer from India with a passion for building beautiful and functional websites</h3>
+<h1>💫 About Me:</h1>
+<h3>Hi! Welcome to my Github landing page!<br>I'm Ali Haider a dedicated Web Developer from India with a passion for building beautiful and functional websites</h3>
 
 - 🔭 I’m currently working on [Portfolio using react](https://github.com/md-alihaider/portfolio-react)
 
