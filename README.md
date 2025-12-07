@@ -1,18 +1,18 @@
 # 👋 Hi, I'm **Md Ali Haider**
 
-### 💻 Full Stack Developer  
-**React · Node.js · Express · MongoDB · Python · Django**
+### 💻 Full Stack Web Developer  
+**React · Node.js · Express · MongoDB · JavaScript · WebSockets**
 
-Passionate about building modern, responsive, and user-friendly web applications.  
-I enjoy turning ideas into real products using clean code, strong fundamentals, and practical problem-solving.
+I build modern, responsive, and user-friendly web applications using the MERN stack.  
+Passionate about writing clean, scalable code and turning real-world ideas into functional products.
 
 ---
 
 ## 🚀 About Me  
-- 🔭 Currently working on: A full-stack real-time chat application with authentication, message storage, and live updates using WebSockets. 
-- 🌱 Learning: **Full-Stack Development (MERN · Django)**  
+- 🔭 Currently working on: **A full-stack real-time chat application (MERN + WebSockets)**  
+- 🌱 Currently learning: **Advanced MERN Stack, Authentication, WebSockets, Deployment**  
 - 📫 Reach me at: **alihaiderbgp@gmail.com**  
-- ⚡ Fun Fact: **I’m a huge cricket fan!**
+- ⚡ Fun fact: **I’m a huge cricket fan!**
 
 🌐 **Portfolio:** https://alihaider-dev.vercel.app
 
@@ -21,27 +21,32 @@ I enjoy turning ideas into real products using clean code, strong fundamentals, 
 ## 🔗 Connect with Me  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/md-ali-haider)  
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/alihaider_7056)  
-[![LeetCode](https://skillicons.dev/icons?i=leetcode)](https://leetcode.com/alihaiderbgp85)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/alihaiderbgp85)
 
 ---
 
 ## 🛠️ Tech Stack  
-### 🚧 Backend & Frontend  
-![React](https://skillicons.dev/icons?i=react)
+
+### 🚧 Full-Stack / Backend  
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Python](https://skillicons.dev/icons?i=python)
-![Django](https://skillicons.dev/icons?i=django)
-![MySQL](https://skillicons.dev/icons?i=mysql)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![Git](https://skillicons.dev/icons?i=git)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
-### 🧩 Other Languages  
+### 🎨 Frontend  
+![React](https://skillicons.dev/icons?i=react)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
+### 🧰 Other Tools  
+![Git](https://skillicons.dev/icons?i=git)
 ![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
+![Vite](https://skillicons.dev/icons?i=vite)
+![Photoshop](https://skillicons.dev/icons?i=ps)
 
 ---
 
