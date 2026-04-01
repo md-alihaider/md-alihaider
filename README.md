@@ -1,20 +1,17 @@
 # 👋 Hi, I'm **Md Ali Haider**
 
-### 💻 Full Stack Web Developer  
-**React · Node.js · Express · MongoDB · JavaScript · WebSockets**
+### 💻 Full Stack Developer | Next.js Enthusiast | Open Source Contributor
+**Next.js · React · Node.js · Convex · Clerk · Python**
 
-I build modern, responsive, and user-friendly web applications using the MERN stack.  
-Passionate about writing clean, scalable code and turning real-world ideas into functional products.
+I specialize in building high-performance, real-time web applications. Currently focused on mastering the modern web stack and contributing to impactful open-source projects.
 
 ---
 
 ## 🚀 About Me  
-- 🔭 Currently working on: **A full-stack real-time chat application (MERN + WebSockets)**  
-- 🌱 Currently learning: **Advanced MERN Stack, Authentication, WebSockets, Deployment**  
-- 📫 Reach me at: **alihaiderbgp@gmail.com**  
-- ⚡ Fun fact: **I’m a huge cricket fan!**
+- 🔭 Currently building: **[CodeSync](https://github.com/md-alihaider/codesync-interview-platform)** – A real-time video interview platform (Next.js, Stream, Convex).  
+- 🌱 Currently learning: **Advanced Next.js Architecture, DSA with Python, and German Language.** - 📫 Reach me at: **alihaiderbgp@gmail.com** - ⚡ Fun fact: **I can talk about Cricket and Clean Code all day!**
 
-🌐 **Portfolio:** https://alihaider-dev.vercel.app
+🌐 **Portfolio:** [alihaider-dev.vercel.app](https://alihaider-dev.vercel.app)
 
 ---
 
@@ -27,26 +24,27 @@ Passionate about writing clean, scalable code and turning real-world ideas into 
 
 ## 🛠️ Tech Stack  
 
-### 🚧 Full-Stack / Backend  
+### 🏗️ Frameworks & Frontend
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![React](https://skillicons.dev/icons?i=react)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+
+### ⚙️ Backend, Database & Auth
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MySQL](https://skillicons.dev/icons?i=mysql)
+**Convex** | **Clerk** | **GetStream**
 
-### 🎨 Frontend  
-![React](https://skillicons.dev/icons?i=react)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-
-### 🧰 Other Tools  
+### 🧰 Tools & Languages
 ![Git](https://skillicons.dev/icons?i=git)
-![C](https://skillicons.dev/icons?i=c)
+![Python](https://skillicons.dev/icons?i=py)
 ![C++](https://skillicons.dev/icons?i=cpp)
+![Vercel](https://skillicons.dev/icons?i=vercel)
 ![Vite](https://skillicons.dev/icons?i=vite)
-![Photoshop](https://skillicons.dev/icons?i=ps)
 
 ---
 
@@ -62,5 +60,5 @@ Passionate about writing clean, scalable code and turning real-world ideas into 
 
 ---
 
-### ✨ Thanks for visiting my profile!  
-Feel free to check out my repositories and connect with me.
+### ✨ Let's Build Something Great!
+I'm always open to collaborating on interesting projects or discussing the latest in AI and Web Dev.
