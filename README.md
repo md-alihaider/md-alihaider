@@ -10,13 +10,13 @@ I’m a BCA graduate focused on building modern, responsive web applications and
 
 ## 🚀 About Me
 
-* 🔭 Currently building: **[SyncChat](https://github.com/md-alihaider/SyncChat)** — A real-time chat application built with React, Node.js, Express.js, and MongoDB.
+* 🔭 Currently building: **[AuthForge](https://github.com/md-alihaider/authforge)** — An advanced authentication system built with Node.js, Express.js, and MongoDB, featuring secure access and refresh tokens, email verification, password reset, and protected routes.
 * 🌱 Currently learning: **Node.js, Express.js, MongoDB, REST APIs, and DSA with JavaScript/Python.**
-* 💻 Currently practicing: **Building and testing REST APIs, CRUD operations, and backend fundamentals.**
+* 💻 Currently practicing: **Building and testing REST APIs, CRUD operations, authentication, and backend fundamentals.**
 * 📫 Reach me at: **[alihaiderbgp@gmail.com](mailto:alihaiderbgp@gmail.com)**
 * ⚡ Fun fact: **I can talk about Cricket and Clean Code all day!**
 
-🌐 **Portfolio:** [alihaider-dev.vercel.app](https://alihaider-dev.vercel.app)
+🌐 **Portfolio:** [mdalihaider.vercel.app](https://mdalihaider.vercel.app/)
 
 ---
 
@@ -71,6 +71,7 @@ Backend
 ├── Node.js
 ├── Express.js
 ├── REST APIs
+├── Authentication
 └── MongoDB
 
 Problem Solving
@@ -80,6 +81,20 @@ Problem Solving
 ---
 
 ## 🚀 Featured Projects
+
+### 🔐 AuthForge
+
+**Advanced authentication system**
+
+- Node.js
+- Express.js
+- MongoDB
+- Access & Refresh Tokens
+- Email Verification
+- Password Reset
+- Protected Routes
+
+🔗 [GitHub Repository](https://github.com/md-alihaider/authforge)
 
 ### 💬 SyncChat
 
@@ -96,17 +111,23 @@ Problem Solving
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=md-alihaider\&theme=dark\&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-alihaider&show_icons=true&theme=dark&hide_border=false)
 
-![](https://nirzak-streak-stats.vercel.app/?user=md-alihaider\&theme=dark\&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=md-alihaider&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=md-alihaider\&theme=dark\&hide_border=false\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-alihaider&theme=dark&hide_border=false&layout=compact)
 
 ---
 
 ## 👁️ Visit Count
 
-[![](https://visitcount.itsvg.in/api?id=md-alihaider\&icon=0\&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=md-alihaider&color=blueviolet&style=flat-square)
+
+---
+
+## 📈 GitHub Activity
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=md-alihaider&theme=github-dark)](https://github.com/md-alihaider)
 
 ---
 
