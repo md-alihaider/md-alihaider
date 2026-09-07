@@ -111,11 +111,12 @@ Problem Solving
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-alihaider&show_icons=true&theme=dark&hide_border=false)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-alihaider&show_icons=true&theme=dark&hide_border=false&cache_seconds=86400)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=md-alihaider&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-alihaider&theme=dark&hide_border=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-alihaider&theme=dark&hide_border=false&layout=compact&cache_seconds=86400)
 
 ---
 
