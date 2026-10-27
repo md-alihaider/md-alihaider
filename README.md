@@ -14,7 +14,7 @@ I’m a BCA graduate focused on building modern, responsive web applications and
 * 🌱 Currently learning: **Node.js, Express.js, MongoDB, REST APIs, and DSA with JavaScript/Python.**
 * 💻 Currently practicing: **Building and testing REST APIs, CRUD operations, authentication, and backend fundamentals.**
 * 📫 Reach me at: **[alihaiderbgp@gmail.com](mailto:alihaiderbgp@gmail.com)**
-* ⚡ Fun fact: **I can talk about Cricket and Clean Code all day!**
+* ⚡ Fun fact: **I can talk about Games and Clean Code all day!**
 
 🌐 **Portfolio:** [mdalihaider.vercel.app](https://mdalihaider.vercel.app/)
 
